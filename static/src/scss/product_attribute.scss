@@ -1,0 +1,23 @@
+.css_attribute_color.dual {
+    background: str-replace(url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' ><polygon points='0,0 40,0 0,40' fill='#fff'/></svg>"), "#", "%23") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.css_attribute_color {
+    input[type='radio'] {
+        height: 40px;
+        width: 40px;
+    }
+}
+
+.css_attribute_color.css_style {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.css_attribute_color.stylish {
+    background: url("/jt_product_attribute_css/static/src/img/PB.png");
+}
