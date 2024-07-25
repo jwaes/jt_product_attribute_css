@@ -29,7 +29,7 @@
     'demo': [
     ],
     'assets': {
-        'web.assets_common': [
+        'web.assets_frontend': [
             'jt_product_attribute_css/static/src/scss/*',
         ],
     },       
